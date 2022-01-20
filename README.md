@@ -1,1 +1,3 @@
 # smart_home_with_arduino
+플로우차트
+https://www.notion.so/eorms6199/smart_home_with_arduino-9e99e2642ad04a2f9da8e7dde6e38664#362c09046d4b40c2a70b87db008c9fee
